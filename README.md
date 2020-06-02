@@ -16,9 +16,9 @@
 
 [![Build Status](https://travis-ci.org/renanbr/bibtex-parser.svg?branch=1.x)](https://travis-ci.org/renanbr/bibtex-parser)
 
-You are browsing the documentation of **BibTeX Parser 1.x**.
+You are browsing the documentation of BibTeX Parser **1.x version**, which is no longer maintained.
 
-[Documentation for version 2.x is available here](https://github.com/renanbr/bibtex-parser/blob/master/README.md).
+[Documentation for the latest and maintained version of BibTeX Parser is available here](https://github.com/renanbr/bibtex-parser/blob/master/README.md).
 
 ## Table of contents
 
