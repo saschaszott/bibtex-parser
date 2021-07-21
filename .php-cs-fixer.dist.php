@@ -27,7 +27,7 @@ return (new PhpCsFixer\Config())
             'elements' => ['method', 'property']
         ],
         'trailing_comma_in_multiline' => [
-            'elements' => ['arrays', 'arguments']
+            'elements' => ['arrays']
         ],
     ])
     ->setFinder(
