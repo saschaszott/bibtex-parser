@@ -23,6 +23,9 @@ return (new PhpCsFixer\Config())
         'php_unit_test_class_requires_covers' => true,
         'strict_comparison' => true,
         'strict_param' => true,
+        'visibility_required' => [
+            'elements' => ['method', 'property']
+        ],
     ])
     ->setFinder(
         PhpCsFixer\Finder::create()
