@@ -26,6 +26,7 @@ return (new PhpCsFixer\Config())
         'visibility_required' => [
             'elements' => ['method', 'property']
         ],
+        'trailing_comma_in_multiline_array' => true,
     ])
     ->setFinder(
         PhpCsFixer\Finder::create()
